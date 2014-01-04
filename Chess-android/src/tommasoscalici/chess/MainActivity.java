@@ -1,5 +1,6 @@
-package com.tommasoscalici.chess;
+package tommasoscalici.chess;
 
+import tommasoscalici.chess.ChessGame;
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;

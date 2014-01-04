@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.tommasoscalici.chess.playgameservicesutil;
+package tommasoscalici.chess.playgameservicesutil;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -42,7 +42,7 @@ import com.google.android.gms.games.GamesActivityResultCodes;
 import com.google.android.gms.games.GamesClient;
 import com.google.android.gms.games.multiplayer.Invitation;
 import com.google.android.gms.plus.PlusClient;
-import com.tommasoscalici.chess.R;
+import tommasoscalici.chess.R;
 
 public class GameHelper implements
 		GooglePlayServicesClient.ConnectionCallbacks,

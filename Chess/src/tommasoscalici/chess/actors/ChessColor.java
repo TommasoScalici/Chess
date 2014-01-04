@@ -1,4 +1,4 @@
-package com.tommasoscalici.chess.actors;
+package tommasoscalici.chess.actors;
 
 public enum ChessColor {
 	

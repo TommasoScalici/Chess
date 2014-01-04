@@ -1,7 +1,8 @@
-package com.tommasoscalici.chess;
+package tommasoscalici.chess;
+
+import tommasoscalici.chess.screens.*;
 
 import com.badlogic.gdx.Game;
-import com.tommasoscalici.chess.screens.*;
 
 public class ChessGame extends Game {
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.tommasoscalici.chess.playgameservicesutil;
+package tommasoscalici.chess.playgameservicesutil;
 
 import android.app.Activity;
 import android.content.Intent;

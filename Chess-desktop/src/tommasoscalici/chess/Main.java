@@ -1,5 +1,7 @@
 
-package com.tommasoscalici.chess;
+package tommasoscalici.chess;
+
+import tommasoscalici.chess.ChessGame;
 
 import com.badlogic.gdx.Application;
 import com.badlogic.gdx.Gdx;

@@ -1,4 +1,4 @@
-package com.tommasoscalici.chess.screens;
+package tommasoscalici.chess.screens;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;

@@ -1,9 +1,10 @@
-package com.tommasoscalici.chess.screens;
+package tommasoscalici.chess.screens;
+
+import tommasoscalici.chess.actors.ChessBoard;
+import tommasoscalici.chess.engine.*;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.GL20;
-import com.tommasoscalici.chess.actors.ChessBoard;
-import com.tommasoscalici.chess.engine.*;
 
 public class PlayScreen extends BaseGameScreen {
 

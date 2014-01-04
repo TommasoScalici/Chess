@@ -1,5 +1,5 @@
 
-package com.tommasoscalici.chess.actors;
+package tommasoscalici.chess.actors;
 
 public enum MenuType {
 	LOCAL_GAME,

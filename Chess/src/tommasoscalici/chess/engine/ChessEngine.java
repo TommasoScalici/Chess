@@ -1,12 +1,13 @@
 // File generated 25/dic/2013 16:50:37
-package com.tommasoscalici.chess.engine;
+package tommasoscalici.chess.engine;
 
 import java.util.*;
+
+import tommasoscalici.chess.actors.*;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.*;
 import com.badlogic.gdx.math.*;
-import com.tommasoscalici.chess.actors.*;
 
 
 public class ChessEngine {

@@ -1,10 +1,11 @@
 
-package com.tommasoscalici.chess.screens;
+package tommasoscalici.chess.screens;
+
+import tommasoscalici.chess.actors.*;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.scenes.scene2d.*;
-import com.tommasoscalici.chess.actors.*;
 
 public class MainMenuScreen extends BaseGameScreen {
 

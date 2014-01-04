@@ -1,11 +1,12 @@
-package com.tommasoscalici.chess.actors;
+package tommasoscalici.chess.actors;
+
+import tommasoscalici.chess.engine.*;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.*;
 import com.badlogic.gdx.graphics.g2d.*;
 import com.badlogic.gdx.math.*;
 import com.badlogic.gdx.scenes.scene2d.*;
-import com.tommasoscalici.chess.engine.*;
 
 
 public class ChessPiece extends Actor {

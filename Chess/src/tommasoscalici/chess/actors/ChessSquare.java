@@ -1,4 +1,4 @@
-package com.tommasoscalici.chess.actors;
+package tommasoscalici.chess.actors;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.*;
